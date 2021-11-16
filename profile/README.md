@@ -1,8 +1,6 @@
 # Welcome to the Create Go App project
 
-✨ Create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running one CLI command.
-
-Focus on writing code and thinking of business-logic! The CLI will take care of the rest.
+✨ Create a new production-ready project with backend (Golang), frontend (JavaScript, TypeScript) and deploy automation (Ansible, Docker) by running one CLI command. Focus on writing code and thinking of business-logic! The CLI will take care of the rest.
 
 > Project originally developed at the end of 2019 by [Vic Shóstak] (_who still works today_).
 
