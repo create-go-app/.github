@@ -29,6 +29,7 @@ The Create Go App project has a number of repositories, some important ones incl
 
 - [cli]: A powerful interactive CLI to build your next wonderful project.
 - [fiber-go-template]: A production-ready backend template with `Fiber` web framework for Create Go App CLI.
+- [chi-go-template]: A production-ready backend template with `go-chi` router for Create Go App CLI.
 - [net_http-go-template]: A standard `net/http` backend template for Create Go App CLI.
 
 <!-- Links -->
@@ -42,4 +43,5 @@ The Create Go App project has a number of repositories, some important ones incl
 
 [cli]: https://github.com/create-go-app/cli
 [fiber-go-template]: https://github.com/create-go-app/fiber-go-template
+[chi-go-template]: https://github.com/create-go-app/chi-go-template
 [net_http-go-template]: https://github.com/create-go-app/net_http-go-template
