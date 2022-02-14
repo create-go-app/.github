@@ -18,7 +18,7 @@ Special thanks to all our GitHub contributors for bringing this project to life.
 >
 > - Creating content (writing understandable texts for project Wiki pages).
 > - Golang development (creating a new backend templates, writing tests, etc).
-> - Docker containerization (build Docker containers for backend templates).
+> - Docker/Podman containerization (build Docker/Podman containers for backend templates).
 > - Ansible automatization (creating a new Ansible roles and playbooks).
 >
 > If you are available to help on a _voluntary basis_, please contact to [@koddr].
@@ -29,7 +29,7 @@ The Create Go App project has a number of repositories, some important ones incl
 
 - [cli]: A powerful interactive CLI to build your next wonderful project.
 - [fiber-go-template]: A production-ready backend template with `Fiber` web framework for Create Go App CLI.
-- [chi-go-template]: A production-ready backend template with `go-chi` router for Create Go App CLI.
+- [chi-go-template]: A simple health-check backend template with `go-chi` router for Create Go App CLI.
 - [net_http-go-template]: A standard `net/http` backend template for Create Go App CLI.
 
 <!-- Links -->
