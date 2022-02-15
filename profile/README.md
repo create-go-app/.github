@@ -6,7 +6,7 @@
 
 ## Get started with Create Go App
 
-To learn more about project, see <https://create-go.app/wiki> and official [README].
+To learn more about project, see <https://github.com/create-go-app/cli/wiki> and official [README].
 
 ## Get involved
 
