@@ -34,7 +34,7 @@ The Create Go App project has a number of repositories, some important ones incl
 
 <!-- Links -->
 
-[vic shóstak]: https://shostak.dev?utm_source=GitHub
+[vic shóstak]: https://github.com/koddr
 [readme]: https://github.com/create-go-app/cli#%EF%B8%8F-quick-start
 [contributing guide]: https://github.com/create-go-app/.github/blob/main/CONTRIBUTING.md
 [@koddr]: https://github.com/koddr
