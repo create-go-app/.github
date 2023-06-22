@@ -18,7 +18,7 @@ Special thanks to all our GitHub contributors for bringing this project to life.
 >
 > - Creating content (writing understandable texts for project Wiki pages).
 > - Golang development (creating a new backend templates, writing tests, etc).
-> - Docker/Podman containerization (build Docker/Podman containers for backend templates).
+> - Docker containerization (build Docker containers for backend templates).
 > - Ansible automatization (creating a new Ansible roles and playbooks).
 >
 > If you are available to help on a _voluntary basis_, please contact to [@koddr].
