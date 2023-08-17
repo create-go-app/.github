@@ -27,7 +27,7 @@ Vulnerability reports are received via the `koddr.me@gmail.com` e-mail alias. Ce
 who have been designated the "vulnerability management team" receive these e-mails. When receiving
 such an e-mail, they will:
 
-1. Reply to the e-mail acknowledging its receipt, cc'ing `vic@shostak.dev` so that the other
+1. Reply to the e-mail acknowledging its receipt, cc'ing `koddr.me@gmail.com` so that the other
    members of the team are aware that they are handling the issue. If the e-mail does not describe
    an actual vulnerability, the process will stop here.
 2. Create a new security advisory for Create Go App's project. One must be one of the repo admins to
