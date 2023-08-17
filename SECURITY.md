@@ -7,7 +7,7 @@ currently on the `main` branch.
 
 ## Reporting a Vulnerability
 
-To report a vulnerability, please e-mail `vic@shostak.dev` with a description of the issue,
+To report a vulnerability, please e-mail `koddr.me@gmail.com` with a description of the issue,
 the steps you took to create the issue, affected versions, and if known, mitigation for the issue.
 
 We should reply within five working days, probably much sooner. (_Unfortunately, we do receive
@@ -16,14 +16,14 @@ represent issues for which this process is appropriate._)
 
 We use GitHub's security advisory feature to track open security issues. You should expect
 a close collaboration as we work to resolve the issue you have reported. Please reach out to
-`vic@shostak.dev` again if you do not receive prompt attention and regular updates.
+`koddr.me@gmail.com` again if you do not receive prompt attention and regular updates.
 
 ## Process
 
 This section describes the process used by the Create Go App project team when handling vulnerability
 reports.
 
-Vulnerability reports are received via the `vic@shostak.dev` e-mail alias. Certain team members
+Vulnerability reports are received via the `koddr.me@gmail.com` e-mail alias. Certain team members
 who have been designated the "vulnerability management team" receive these e-mails. When receiving
 such an e-mail, they will:
 
