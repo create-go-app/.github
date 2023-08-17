@@ -1,6 +1,6 @@
 # Contributing to Create Go App project
 
-_TL;DR: sign up for notifications of GitHub Issues and Discussions in main repositories, be [courteous](CODE_OF_CONDUCT.md), follow the steps below to set up a development environment; if you stick around and contribute, you can join the team (write about yourself to us at [vic@shostak.dev]) and get commit access._
+_TL;DR: sign up for notifications of GitHub Issues and Discussions in main repositories, be [courteous](CODE_OF_CONDUCT.md), follow the steps below to set up a development environment; if you stick around and contribute, you can join the team (write about yourself to us at [koddr.me@gmail.com]) and get commit access._
 
 ## Welcome
 
@@ -13,7 +13,7 @@ We grant commit access (which includes full rights to the issue
 database, such as being able to edit labels) to people who have gained
 our trust and demonstrated a commitment to Create Go App project.
 
-We communicate primarily over GitHub and email ([vic@shostak.dev]).
+We communicate primarily over GitHub and email ([koddr.me@gmail.com]).
 
 _See also: [Create Go App project's code of conduct](CODE_OF_CONDUCT.md)_
 
@@ -60,7 +60,7 @@ presented.
 
 <!-- Links -->
 
-[vic@shostak.dev]: mailto:vic@shostak.dev?subject=Contributing+to+Create+Go+App+project
+[koddr.me@gmail.com]: mailto:koddr.me@gmail.com?subject=Contributing+to+Create+Go+App+project
 [cli]: https://github.com/create-go-app/cli
 [fiber-go-template]: https://github.com/create-go-app/fiber-go-template
 [net_http-go-template]: https://github.com/create-go-app/net_http-go-template
