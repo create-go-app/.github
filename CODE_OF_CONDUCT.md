@@ -47,4 +47,4 @@ That way, the next person will be brought up to speed even quicker.
 
 <!-- Links -->
 
-[vic shóstak]: mailto:vic@shostak.dev?subject=Code+of+conduct+Create+Go+App+project
+[vic shóstak]: mailto:koddr.me@gmail.com?subject=Code+of+conduct+Create+Go+App+project
